@@ -26,4 +26,4 @@ Este projeto utiliza a API do OpenRouteService, Overpass e geocodificação para
    git clone https://github.com/seu-usuario/rota_caminhao_postos.git
    cd rota_caminhao_postos
 
-![Mapa da Rota](img\rota.png)
+![Mapa da Rota](img/rota.png
