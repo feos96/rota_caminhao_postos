@@ -1,0 +1,6 @@
+folium
+openrouteservice
+geopy
+requests
+shapely
+numpy
