@@ -8,7 +8,7 @@ import numpy as np
 import webbrowser
 
 # ====================== CONFIGURAÇÕES ======================
-ORS_API_KEY = "5b3ce3597851110001cf62486c7c8af74cf646be838f6fc698c67fa8"
+ORS_API_KEY = "SUA_CHAVE"
 
 # Agora você pode modificar aqui:
 ORIGIN = "Fortaleza, Ceará, Brasil"     # Origem como texto
